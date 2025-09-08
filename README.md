@@ -7,7 +7,7 @@ Este projeto utiliza **Jest + React Testing Library** para testes unitários e d
 
 npm install
 ## Testes Unitários e de Integração
-- npm test
+npm test
 
 ## Testes End-to-End (Cypress)
 - Inicie sua aplicação:
